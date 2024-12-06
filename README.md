@@ -1,0 +1,1 @@
+This bug demonstrates a common type error in TypeScript where the function expects an object with x and y properties but receives a number instead. The solution involves ensuring the correct object is passed to the function.  The bug and solution are provided in separate .ts files.
